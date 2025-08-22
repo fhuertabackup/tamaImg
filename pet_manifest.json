@@ -1,0 +1,22 @@
+{
+  "w": 115,
+  "h": 110,
+  "colorkey": 65535,
+  "sheet": {
+    "type": "linear",
+    "frames": 4,
+    "path": "pet_sheet.bin"
+  },
+  "animations": [
+    {
+      "name": "idle",
+      "frameMs": 200,
+      "frames": [
+        0,
+        1,
+        2,
+        3
+      ]
+    }
+  ]
+}
